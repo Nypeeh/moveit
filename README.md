@@ -11,7 +11,10 @@ MoveIt é uma aplicação Front-End Web que desenvolvi junto a 4ª edição da S
 A aplicação consiste em dar mais importância aos nossos Devs de todas as etapas para que consigam evitar problemas físicos e possam continuar programando por muito tempo. A função principal é listar desafios que ao serem completados te dão experiência e level.
 
 ## Layout Web
-![Web](https://user-images.githubusercontent.com/71713087/109844735-2e783580-7c2b-11eb-8739-1ee12d8195e8.png)
+![Web_1](https://user-images.githubusercontent.com/71713087/109844735-2e783580-7c2b-11eb-8739-1ee12d8195e8.png)
+
+![Web_2](https://user-images.githubusercontent.com/71713087/109846534-0d184900-7c2d-11eb-848d-5b67018e59e7.png)
+
 
 
 # Tecnologias utilizadas
