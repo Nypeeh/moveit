@@ -33,6 +33,8 @@ A aplicação consiste em dar mais importância aos nossos Devs de todas as etap
 ## Front end web
 Pré-requisitos: npm / yarn
 
+```bash
+
 # Clonar repositório
 git clone https://github.com/Nypeeh/moveit.git
 
@@ -40,12 +42,12 @@ git clone https://github.com/Nypeeh/moveit.git
 cd moveit
 
 # Instalar dependências
-yarn install
-ou
 yarn
 
 # Executar o projeto
 yarn dev
+
+```
 
 
 # Autor
